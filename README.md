@@ -5,4 +5,9 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width=1000 height=40/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width=40 height=40 />
                              
+<img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+<img src="https://media.tenor.com/Vlvb0_bUEz8AAAAC/stillesque.gif">
+
+<img src="https://media.tenor.com/hI-oOVvwasYAAAAC/happy.gif" width=350>
+
 
